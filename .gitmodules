@@ -1,0 +1,15 @@
+[submodule "modules/libx11"]
+	path = modules/libx11
+	url = https://gitlab.freedesktop.org/xorg/lib/libx11
+[submodule "modules/libxi"]
+	path = modules/libxi
+	url = https://gitlab.freedesktop.org/xorg/lib/libxi
+[submodule "modules/libxfixes"]
+	path = modules/libxfixes
+	url = https://gitlab.freedesktop.org/xorg/lib/libxfixes
+[submodule "module/xorgproto"]
+	path = modules/xorgproto
+	url = https://gitlab.freedesktop.org/xorg/proto/xorgproto
+[submodule "modules/libxcb"]
+	path = modules/libxcb
+	url = https://gitlab.freedesktop.org/xorg/lib/libxcb

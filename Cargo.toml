@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "xlib-sys",
+    "binding-generator"
+]

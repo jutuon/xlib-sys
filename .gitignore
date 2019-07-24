@@ -1,0 +1,6 @@
+/target
+**/*.rs.bk
+Cargo.lock
+
+.vscode
+xlib-sys/src/generated_bindings

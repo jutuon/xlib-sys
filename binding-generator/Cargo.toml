@@ -1,0 +1,11 @@
+[package]
+name = "binding-generator"
+version = "0.1.0"
+authors = ["Juuso Tuononen <jutuon@outlook.com>"]
+edition = "2018"
+publish = false
+
+[dependencies]
+bindgen = { version = "0.50.0", default-features=false, features=["logging"] }
+log = "0.4"
+env_logger = "0.6.2"
